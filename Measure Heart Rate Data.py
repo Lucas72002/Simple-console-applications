@@ -8,3 +8,5 @@ print(too_low)
 
 print("Heart rate high:")
 print(too_high)
+
+#Program check and tell if the heart rate of a patient is too low or too high. 
