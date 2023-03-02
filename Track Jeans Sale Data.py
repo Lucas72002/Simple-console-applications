@@ -11,4 +11,4 @@ in_stock = current_stock != 0
 print("Jeans in stock:")
 print(in_stock)
 
-#Used knowledge of number equality. Application compares jeans_sol with target and check if thar are jeans still in stock.
+#Used knowledge of number equality. Application compares jeans_sold with target and check if thar are jeans still in stock.
